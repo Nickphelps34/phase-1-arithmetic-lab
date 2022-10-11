@@ -1,2 +1,5 @@
+function multiply() {
+    let num1 = 2
 
-// Write your code here
+    return num1
+}
